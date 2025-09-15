@@ -53,4 +53,4 @@ Each experiment was simulated over 30 days, repeated 30 times, and results were 
 
 ## 👤 Author
 - **Yusuf Kemahlı**  
-- Erasmus project at Università degli Studi di Milano (Spring 2024–2025)  ****
+- Erasmus project at Università degli Studi di Milano (Spring 2024–2025)
