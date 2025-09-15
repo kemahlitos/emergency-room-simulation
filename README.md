@@ -45,9 +45,9 @@ Each experiment was simulated over 30 days, repeated 30 times, and results were 
 ---
 
 ## 📂 Project Files
-- **Report**: [`simulationProjectReport.pdf`](./report/simulationProjectReportYusufKemahli.pdf)  
-- **AnyLogic Model**: (to be uploaded in `/src/`)  
-- **Results & Plots**: (CSV + Python visualizations in `/results/`)  
+- **Report**: [`simulationProjectReport.pdf`](./report/simulationProjectReport.pdf)  
+- **AnyLogic Model**  
+- **Results & Plots** 
 
 ---
 
